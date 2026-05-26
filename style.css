@@ -1,0 +1,5 @@
+img{
+   max-width: 30%;
+}
+
+/*soles usar % en imagenes, el max hace que no se pixelee; no solemos usar height usamos auto*/
